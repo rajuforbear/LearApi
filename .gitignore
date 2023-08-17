@@ -152,6 +152,6 @@ Session.vim
 .netrwhist
 # auto-generated tag files
 tags
-package-lock.json
+
 
 # End of https://www.gitignore.io/api/node,vim,git,macos,linux,sublimetext
